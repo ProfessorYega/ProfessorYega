@@ -1,6 +1,6 @@
 <!-- Stylish header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Professor Yega&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=ProfessorYega&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
