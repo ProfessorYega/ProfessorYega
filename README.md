@@ -69,15 +69,6 @@ Currently researching:
 
 ---
 
-### 📫 Let's Connect
-
-- 🌐 Website (coming soon)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ your.email@example.com
-- 🐦 Twitter/X (optional): `@YourHandle`
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6366f1,100:0f172a&height=120" />
 </p>
